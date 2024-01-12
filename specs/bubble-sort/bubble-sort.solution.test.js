@@ -1,3 +1,4 @@
+// @ts-nocheck
 /*
   Write a bubble sort here
   Name the function bubbleSort
